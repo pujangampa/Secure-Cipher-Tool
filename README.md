@@ -28,13 +28,13 @@ Run the Script: Execute the caesar_cipher_gui.py script using Python.
 
 Interact with the GUI: The application window opens, allowing you to interact with the Caesar cipher tool.
 
-Encryption:
+- Encryption:
 
-Enter a numeric shift value (key) in the "Enter The Key" field.
-Input the text you want to encrypt in the "Enter The Plain Text" field.
-Click the "ENCRYPT" button to encrypt the text.
+1. Enter a numeric shift value (key) in the "Enter The Key" field.
+2. Input the text you want to encrypt in the "Enter The Plain Text" field.
+3. Click the "ENCRYPT" button to encrypt the text.
 
-Decryption:
+- Decryption:
 
 To decrypt, enter the same shift value and the encrypted text in the respective fields.
 Click the "DECRYPT" button to reveal the original plaintext.
