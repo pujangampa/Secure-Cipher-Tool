@@ -10,9 +10,7 @@ Users can input a numeric shift value (key) and the text they want to encrypt. U
 - Decryption:
 To decrypt previously encrypted text, users must provide the same shift value (key) used for encryption along with the ciphertext in the appropriate fields. Clicking the "DECRYPT" button then reveals the original plaintext in the "Decrypted Text" field.
 
-# Getting Started
-
-Prerequisites
+# Prerequisites
 
 Before using this Caesar cipher tool, ensure that you have the following prerequisites:
 
