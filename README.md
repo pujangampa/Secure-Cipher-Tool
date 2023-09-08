@@ -24,7 +24,7 @@ To decrypt previously encrypted text, users must provide the same shift value (k
 
 1. Clone or Download: Clone or download this repository to your local machine.
 
-2. Run the Script: Execute the caesar_cipher_gui.py script using Python.
+2. Run the Script: Execute the main.py script using Python.
 
 3. Interact with the GUI: The application window opens, allowing you to interact with the Caesar cipher tool.
 
