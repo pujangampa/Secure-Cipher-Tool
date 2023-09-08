@@ -1,6 +1,6 @@
 # Secure-Cipher-Tool
 
-The "Secure Cipher Tool" is a Python application designed to make the Caesar cipher encryption and decryption process easy and interactive for users. The Caesar cipher is a simple substitution cipher that shifts each letter in the plaintext by a fixed number of positions down or up the alphabet. 
+The "Secure Cipher Tool" is a Python application designed to make the Caesar cipher encryption and decryption process easy and interactive for users. The Caesar cipher is a simple substitution cipher that shifts each letter in the plaintext by a fixed number of positions down or up the alphabet. Enhanced security by enabling users to specify a custom encryption key for the Caesar Cipher, adding an additional layer of data protection.
 
 # Encryption and Decryption
 
