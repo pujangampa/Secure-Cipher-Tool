@@ -4,9 +4,11 @@ The "Secure Cipher Tool" is a Python application designed to make the Caesar cip
 
 # Encryption and Decryption
 
-Encryption: Users can input a numeric shift value (key) and the text they want to encrypt. Upon clicking the "ENCRYPT" button, the application performs Caesar cipher encryption and displays the resulting ciphertext in the "Encrypted Text" field.
+- Encryption:
+Users can input a numeric shift value (key) and the text they want to encrypt. Upon clicking the "ENCRYPT" button, the application performs Caesar cipher encryption and displays the resulting ciphertext in the "Encrypted Text" field.
 
-Decryption: To decrypt previously encrypted text, users must provide the same shift value (key) used for encryption along with the ciphertext in the appropriate fields. Clicking the "DECRYPT" button then reveals the original plaintext in the "Decrypted Text" field.
+- Decryption:
+To decrypt previously encrypted text, users must provide the same shift value (key) used for encryption along with the ciphertext in the appropriate fields. Clicking the "DECRYPT" button then reveals the original plaintext in the "Decrypted Text" field.
 
 # Getting Started
 
