@@ -12,21 +12,21 @@ To decrypt previously encrypted text, users must provide the same shift value (k
 
 # Prerequisites
 
-Before using this Caesar cipher tool, ensure that you have the following prerequisites:
+1. Before using this Caesar cipher tool, ensure that you have the following prerequisites:
 
-Python 3.x: You need a Python 3.x interpreter to run the application.
+2. Python 3.x: You need a Python 3.x interpreter to run the application.
 
-Tkinter Library: Tkinter is the standard GUI library included with Python. Most Python installations include Tkinter by default.
+3. Tkinter Library: Tkinter is the standard GUI library included with Python. Most Python installations include Tkinter by default.
 
 # Usage
 
-To use the Caesar Cipher Tool with Tkinter GUI, follow these steps:
+-  To use the Caesar Cipher Tool with Tkinter GUI, follow these steps:
 
-Clone or Download: Clone or download this repository to your local machine.
+1. Clone or Download: Clone or download this repository to your local machine.
 
-Run the Script: Execute the caesar_cipher_gui.py script using Python.
+2. Run the Script: Execute the caesar_cipher_gui.py script using Python.
 
-Interact with the GUI: The application window opens, allowing you to interact with the Caesar cipher tool.
+3. Interact with the GUI: The application window opens, allowing you to interact with the Caesar cipher tool.
 
 - Encryption:
 
@@ -36,9 +36,9 @@ Interact with the GUI: The application window opens, allowing you to interact wi
 
 - Decryption:
 
-To decrypt, enter the same shift value and the encrypted text in the respective fields.
-Click the "DECRYPT" button to reveal the original plaintext.
-Reset: Use the "RESET" button to clear all fields and start over.
+1. To decrypt, enter the same shift value and the encrypted text in the respective fields.
+2. Click the "DECRYPT" button to reveal the original plaintext.
+3. Reset: Use the "RESET" button to clear all fields and start over.
 
 
 # License
