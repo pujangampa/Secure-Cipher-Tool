@@ -33,6 +33,7 @@ Encryption:
 Enter a numeric shift value (key) in the "Enter The Key" field.
 Input the text you want to encrypt in the "Enter The Plain Text" field.
 Click the "ENCRYPT" button to encrypt the text.
+
 Decryption:
 
 To decrypt, enter the same shift value and the encrypted text in the respective fields.
